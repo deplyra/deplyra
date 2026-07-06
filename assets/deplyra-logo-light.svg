@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <defs>
+    <linearGradient id="lineL" x1="150" y1="290" x2="200" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F6DA8"/>
+      <stop offset="1" stop-color="#0FB8A3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- mark -->
+  <g transform="translate(60,20) scale(0.63)">
+    <g stroke="url(#lineL)" stroke-width="8" stroke-linecap="round" fill="none">
+      <path d="M244 134 L191 194 L225 236 L321 270 L287 378 L191 344 L225 236"/>
+    </g>
+    <g>
+      <circle cx="191" cy="194" r="12" fill="#FFFFFF" stroke="#0FB8A3" stroke-width="6"/>
+      <circle cx="225" cy="236" r="12" fill="#FFFFFF" stroke="#0FB8A3" stroke-width="6"/>
+      <circle cx="321" cy="270" r="13" fill="#FFFFFF" stroke="#1D9FB8" stroke-width="6"/>
+      <circle cx="287" cy="378" r="12" fill="#FFFFFF" stroke="#2F6DA8" stroke-width="6"/>
+      <circle cx="191" cy="344" r="12" fill="#FFFFFF" stroke="#2F6DA8" stroke-width="6"/>
+    </g>
+    <circle cx="244" cy="134" r="17" fill="#0E1B2A"/>
+    <path d="M244 90 L251.5 126.5 L288 134 L251.5 141.5 L244 178 L236.5 141.5 L200 134 L236.5 126.5 Z" fill="#0E1B2A" opacity="0.92"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="310" y="196" font-family="Space Grotesk, Arial, sans-serif" font-weight="700" font-size="118" fill="#0E1B2A" letter-spacing="2">Deplyra</text>
+  <text x="314" y="252" font-family="Space Grotesk, Arial, sans-serif" font-weight="500" font-size="30" fill="#0FB8A3" letter-spacing="11">DEVOPS ENGINEERING</text>
+</svg>

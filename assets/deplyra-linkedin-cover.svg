@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1128 191" width="1128" height="191">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1420"/>
+      <stop offset="1" stop-color="#12293F"/>
+    </linearGradient>
+    <linearGradient id="lineB" x1="0" y1="1" x2="0.3" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3D7DBF"/>
+      <stop offset="1" stop-color="#53E8D4"/>
+    </linearGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#53E8D4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#53E8D4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1128" height="191" fill="url(#bg)"/>
+
+  <!-- scattered faint stars -->
+  <g fill="#3D5A75">
+    <circle cx="90" cy="50" r="1.8"/>
+    <circle cx="180" cy="140" r="1.5"/>
+    <circle cx="300" cy="40" r="1.5"/>
+    <circle cx="990" cy="60" r="1.8"/>
+    <circle cx="1060" cy="140" r="1.5"/>
+    <circle cx="880" cy="30" r="1.5"/>
+    <circle cx="60" cy="160" r="1.5"/>
+    <circle cx="1100" cy="25" r="1.5"/>
+  </g>
+
+  <!-- mark: original spans x171..341, y90..390; scale 0.42 -> ~71x126 -->
+  <g transform="translate(322,17) scale(0.42)">
+    <circle cx="244" cy="134" r="80" fill="url(#glowB)"/>
+    <g stroke="url(#lineB)" stroke-width="9" stroke-linecap="round" fill="none">
+      <path d="M244 134 L191 194 L225 236 L321 270 L287 378 L191 344 L225 236"/>
+    </g>
+    <g>
+      <circle cx="191" cy="194" r="13" fill="#0E1B2A" stroke="#53E8D4" stroke-width="7"/>
+      <circle cx="225" cy="236" r="13" fill="#0E1B2A" stroke="#53E8D4" stroke-width="7"/>
+      <circle cx="321" cy="270" r="14" fill="#0E1B2A" stroke="#4FC7DE" stroke-width="7"/>
+      <circle cx="287" cy="378" r="13" fill="#0E1B2A" stroke="#3D7DBF" stroke-width="7"/>
+      <circle cx="191" cy="344" r="13" fill="#0E1B2A" stroke="#3D7DBF" stroke-width="7"/>
+    </g>
+    <circle cx="244" cy="134" r="18" fill="#EAF8FF"/>
+    <path d="M244 88 L252 126 L290 134 L252 142 L244 180 L236 142 L198 134 L236 126 Z" fill="#EAF8FF" opacity="0.9"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="460" y="103" font-family="Space Grotesk, Arial, sans-serif" font-weight="700" font-size="62" fill="#EAF8FF" letter-spacing="1">Deplyra</text>
+  <text x="462" y="138" font-family="Space Grotesk, Arial, sans-serif" font-weight="500" font-size="17" fill="#53E8D4" letter-spacing="5.5">BUILD IT AS CODE. SHIP IT WITH GITOPS.</text>
+</svg>

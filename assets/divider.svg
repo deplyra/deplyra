@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="img" aria-label="">
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3D7DBF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#53E8D4"/>
+      <stop offset="1" stop-color="#3D7DBF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="60" y1="20" x2="1140" y2="20" stroke="url(#d)" stroke-width="1.5" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="2.4s" repeatCount="indefinite"/>
+  </line>
+  <g fill="#53E8D4">
+    <circle cx="600" cy="20" r="4"/>
+    <circle cx="540" cy="20" r="2.5" fill="#3D7DBF"/>
+    <circle cx="660" cy="20" r="2.5" fill="#3D7DBF"/>
+  </g>
+  <path d="M600 8 L603 17 L612 20 L603 23 L600 32 L597 23 L588 20 L597 17 Z" fill="#EAF8FF" opacity="0.9"/>
+</svg>
