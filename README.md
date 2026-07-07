@@ -8,7 +8,7 @@
 **We build production infrastructure as code, ship it with GitOps, and run it to SLOs** — so your team ships faster, sleeps better, and owns a platform that runs without us.
 
 [![Website](https://img.shields.io/badge/deplyra.com-53E8D4?style=for-the-badge&logo=cloudflare&logoColor=0E1B2A)](https://deplyra.com)
-[![Contact](https://img.shields.io/badge/Abdullah%40deplyra.com-0E1B2A?style=for-the-badge&logo=maildotru&logoColor=53E8D4)](mailto:Abdullah@deplyra.com)
+[![Contact](https://img.shields.io/badge/help%40deplyra.com-0E1B2A?style=for-the-badge&logo=maildotru&logoColor=53E8D4)](mailto:help@deplyra.com)
 [![LinkedIn](https://img.shields.io/badge/Deplyra-0E1B2A?style=for-the-badge&logo=linkedin&logoColor=53E8D4)](https://linkedin.com/company/deplyra)
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -126,7 +126,7 @@ Remote worldwide · freelance / contract · start immediate.
 
 [![Start a project](https://img.shields.io/badge/Start_a_project-53E8D4?style=for-the-badge&logo=rocket&logoColor=0E1B2A)](https://deplyra.com/contact)
 [![Website](https://img.shields.io/badge/deplyra.com-0E1B2A?style=for-the-badge&logo=googlechrome&logoColor=53E8D4)](https://deplyra.com)
-[![Email](https://img.shields.io/badge/Abdullah%40deplyra.com-0E1B2A?style=for-the-badge&logo=maildotru&logoColor=53E8D4)](mailto:Abdullah@deplyra.com)
+[![Email](https://img.shields.io/badge/help%40deplyra.com-0E1B2A?style=for-the-badge&logo=maildotru&logoColor=53E8D4)](mailto:help@deplyra.com)
 
 <br/>
 
